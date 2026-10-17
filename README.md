@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá, sou o Rodrigo 👋
 
-<!--
-**deegoo/deegoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados | SQL · Power BI · Python | Domínio em Telecomunicações
 
-Here are some ideas to get you started:
+Engenheiro da Computação com mais de 12 anos em operações críticas de telecom. Passei a carreira medindo o que importa numa rede: disponibilidade, SLA, MTTR, recorrência de falhas e causa raiz. Hoje uso essa bagagem para transformar dados operacionais em indicadores, dashboards e decisões.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Foco atual: Data Analytics e Business Intelligence
+🎓 Pós-graduações em Ciência de Dados e Machine Learning e em Business Intelligence (Univitória, conclusão em 2026)
+📡 Diferencial: conheço o negócio por dentro. Sei de onde vem o dado, o que ele significa e onde ele costuma mentir
+🌎 Inglês avançado
+🛠️ Stack
+
+Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem
+
+Também trabalho com: modelagem de dados relacional, ETL, qualidade de dados, CONTROL-M (agendamento de jobs), automação de rotinas operacionais.
