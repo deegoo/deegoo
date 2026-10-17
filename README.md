@@ -8,8 +8,5 @@ Engenheiro da Computação com mais de 12 anos em operações críticas de telec
 🎓 Pós-graduações em Ciência de Dados e Machine Learning e em Business Intelligence (Univitória, conclusão em 2026)
 📡 Diferencial: conheço o negócio por dentro. Sei de onde vem o dado, o que ele significa e onde ele costuma mentir
 🌎 Inglês avançado
-🛠️ Stack
-
-Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem
 
 Também trabalho com: modelagem de dados relacional, ETL, qualidade de dados, CONTROL-M (agendamento de jobs), automação de rotinas operacionais.
