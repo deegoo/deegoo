@@ -28,17 +28,6 @@ Engenheiro da Computação com mais de 12 anos em operações críticas de telec
 
 ## 📂 Projetos em destaque
 
-<!-- Mantenha aqui SOMENTE projetos que já estão públicos. Apague os blocos dos que ainda não estão no ar e troque NOME-DO-REPO pelo link real. -->
-
-### 🏦 Funil de Conversão Bancária — SQL + Power BI
-Análise de campanhas de marketing de um banco (dataset público Bank Marketing/UCI): taxa de conversão por etapa, perfil de cliente e efetividade por canal.
-`SQL` `Power BI` `DAX` `Modelagem dimensional`
-→ [Ver projeto](https://github.com/deegoo/NOME-DO-REPO)
-
-### 📡 Qualidade de Telecom no Brasil — Dados Abertos da Anatel
-Indicadores de qualidade e reclamações por operadora, UF e período, comparados às metas regulatórias.
-`SQL` `Python` `Power BI` `Dados públicos`
-→ [Ver projeto](https://github.com/deegoo/NOME-DO-REPO)
 
 ### 🤖 Classificação Automática de Incidentes — NLP
 Modelo supervisionado (TF-IDF + Regressão Logística) que classifica incidentes por tipo e severidade, servido via API FastAPI com PostgreSQL.
